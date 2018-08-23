@@ -1,0 +1,8 @@
+/**
+ * Place your custom styles here.
+ */
+
+ /* Admin Backend */
+ #admin-menu{
+     z-index: 9999;
+ }
